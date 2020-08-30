@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.takipstar.com	TRUE	/	FALSE	1999999999	__cfduid	df19f80340cfe9dbbf1df591efa91360b1598807410
+takipstar.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
